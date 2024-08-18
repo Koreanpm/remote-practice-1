@@ -1,0 +1,24 @@
+Last login: Sat Aug 17 17:33:40 on console
+ieunbin@ieunbins-Laptop ~ % git init
+Initialized empty Git repository in /Users/ieunbin/.git/
+ieunbin@ieunbins-Laptop ~ % git init
+Reinitialized existing Git repository in /Users/ieunbin/.git/
+ieunbin@ieunbins-Laptop ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
